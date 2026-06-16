@@ -1,0 +1,69 @@
+*{
+    margin-bottom: 20px;
+}
+
+.first-block{
+    display: flex;
+
+}
+
+.second-block{
+    display:flex;
+    gap: 20px;
+
+}
+
+.third-block{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.fourth-block{
+    display:flex;
+    gap:20px;
+    flex-wrap: wrap;
+
+}
+
+.number{
+    font-size: 1.4rem;
+    border: 2px solid greenyellow;
+    padding: 20px;
+    width: 220px;
+    height:100px
+    
+}
+
+.number-2{
+    font-size: 2rem;
+    border: 2px solid rgb(155, 197, 78);
+    padding: 20px;
+    height: 100px;
+    width: 200px;
+    
+}
+
+.number-3{
+    font-size: 2rempx;
+    border: 2px solid rgb(153, 227, 14);
+    padding: 20px;
+    height: 150 px;
+    width: 200px;
+    background-color: bisque;
+    height:100px
+    
+}
+
+.number-4{
+    font-size: 2rempx;
+    border: 2px solid rgb(153, 227, 14);
+    padding: 20px;
+    height: 150 px;
+    width: 200px;
+    background-color: bisque;
+    height:100px
+    
+}
+
+

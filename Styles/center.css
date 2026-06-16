@@ -1,0 +1,48 @@
+*{
+    margin-bottom: 20px;
+}
+
+.parent{
+    display: flex;
+    background-color: bisque;
+    height: 200px;
+    justify-content: center;
+}
+.child{
+    background-color: aquamarine;
+    font-size: 2em;
+    height: 200px;
+    width: 300px;
+
+}
+
+.parent-2{
+    display: flex;
+    background-color: bisque;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+.child-2{
+    background-color: aquamarine;
+    font-size: 2em;
+    height: 150px;
+    width: 300px;
+
+}
+
+.container{
+    display: flex;
+    background-color: bisque;
+    height: 400px;
+}
+.content{
+    background-color: aquamarine;
+    font-size: 20px;
+    height: 400px;
+    width: 60%;
+    margin: 0 auto;
+
+}
+
+
