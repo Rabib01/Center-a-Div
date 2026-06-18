@@ -1,0 +1,23 @@
+nav li {
+    list-style: none;
+    display: inline;
+    margin-right: 25%;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: rgb(116, 6, 225);
+}
+
+nav li :hover{
+    background-color: aqua;
+}
+
+nav li a {
+    text-decoration: none;
+    color: rgb(159, 104, 215);
+    
+}
+
+img {
+    width: 100%;
+}
