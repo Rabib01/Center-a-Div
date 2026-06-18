@@ -1,0 +1,62 @@
+body{
+    background-color: bisque;
+}
+
+/* body .hero-container{
+    display: flex;
+    margin: 0 auto;
+} */
+
+h1, h3{
+    font-family: 'Montserrat';
+    font-size: 2em;
+}
+h5{
+    font-family: 'Montserrat';
+
+}
+
+header{
+    margin-bottom: 50px;
+}
+
+
+.hero-container  img{
+    width: 300px;
+    height: 260px;
+    border-radius: 25px;
+}
+
+.hero-container{
+    display: flex;
+    background-color: lightblue;
+    width: 600px;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 0 auto; 
+    margin-bottom: 200px;
+    gap: 20px;
+    /* Remember that margin: 0 auto is done on child and justify-content:center and align-item: center are done on parent */
+
+    
+}
+
+button{
+    border-radius: 5px;
+}
+
+
+button:hover{
+    cursor: pointer;
+    font-weight: 1.2em;
+    border-radius: 5px;
+    background-color: aquamarine;
+    box-shadow: 2px 2px 1px;
+}
+
+/* .hero-text{
+} */
+
